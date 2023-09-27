@@ -10,28 +10,6 @@ Meu nome é camila hernandes
 ### VOCÊ ENTRA EM CONTATO COMIGO 📫
 [camila.hernandes.santos@escola.pr.gov.br]
 
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Hi there 👋
-
-<!--
 **camilahernandes24/camilahernandes24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -44,4 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  
